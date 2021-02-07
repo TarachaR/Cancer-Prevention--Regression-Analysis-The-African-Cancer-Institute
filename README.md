@@ -1,4 +1,4 @@
-# Cancer Prevention Regression Analysis-The African Cancer Institute
+# Cancer Prevention-Regression Analysis (The African Cancer Institute)
 ---
 
 > Author: Richard Taracha
@@ -22,14 +22,15 @@
 ---
 
 ## Background Information
-Koppokoppo, is a company that offers market-appropriate solutions to enable and incentivize businesses to go digital. The company partners with financial institutions, mobile operators and major retailers who are interested in marketing new payment services to small and medium enterprises. In turn, the company offers small and medium enterprises loans.
+The African Cancer Institute at Stellenbosch University aims to contribute to improving cancer prevention (both primary and secondary prevention, including screening), diagnosis and management in Africa. The institute is a coordinating and directive institution for research and training in the field of cancer within the University.
 </br>
 </br>
-Website: https://kopokopo.co.ke/
+Website: https://aci.org.za/
 
 ## Understanding The Context
 
-As a Data Scientist, you are required to create a model that will allow Koppokoppo to provide a solution is able to predict whether a loan offered to the certain small and medium enterprise will be paid off.
+As a Data Scientist working for the institution you have been tasked to identify factors that contribute to the death rate of cancer patients using collected dataset.
+In addition, you have also been requested to build a multiple linear regression model to predict the death rate - **"TARGET_deathRate"**. You will be required to check for the assumptions of your model as well as perform k-fold (k=10) cross-validation while challenging your solution.
 
 #### Technologies and Tools
 
