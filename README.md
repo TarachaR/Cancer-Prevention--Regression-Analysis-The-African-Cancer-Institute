@@ -40,14 +40,14 @@ In addition, you have also been requested to build a multiple linear regression 
 - Matplotlib
 - Scikit-Learn
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer Prevention-Regression Analysis (The African Cancer Institute))
 
 ---
 
 ## Project Deliverable
 Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging and Boosting).
 
-* Notebook name: Ensemble Learning with Scikit-Learn.ipynb
+* Notebook name: Cancer Prediction-Regression Analysis.ipynb
 
 **Dataset 1 name:** kopokopo_dataset - datasets_602860_1082167_SBAcase.11.13.17 
 </br>
@@ -64,7 +64,7 @@ Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging 
 
 NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer Prevention-Regression Analysis (The African Cancer Institute))
 
 ---
 
