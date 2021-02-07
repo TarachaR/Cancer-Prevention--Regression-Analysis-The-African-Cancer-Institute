@@ -64,7 +64,7 @@ Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging 
 
 NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
-[Back To The Top](#Cancer-Prevention-Regression-Analysis-(The African Cancer Institute))
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
@@ -82,21 +82,21 @@ NB: Each row represents a customer, each column contains customer’s attributes
 10. Recommendations / Conclusions
 11. Challenge solution.
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Summary Of Findings
 * The ensemble learning classifiers and the decision tree classifier returned 100% accuracy scores with no false positives or false negatives.
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Recommendations / Conclusions
 While these are great scores, I would recommend that the decision makers at Koppokoppo exercise caution while using these methods due to overfitting. Just because the models were perfectly accurate with this data does not mean the same will happen with different data.
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
@@ -109,7 +109,7 @@ While these are great scores, I would recommend that the decision makers at Kopp
 
 * Cross Validation
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
@@ -118,4 +118,4 @@ While these are great scores, I would recommend that the decision makers at Kopp
 - Twitter - https://twitter.com/Vycellous_Drum
 - Website - https://richardtaracha.glitch.me/
 
-[Back To The Top](#Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction)
+[Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
