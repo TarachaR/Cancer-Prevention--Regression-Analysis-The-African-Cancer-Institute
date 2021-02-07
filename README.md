@@ -3,7 +3,7 @@
 
 > Author: Richard Taracha
 
-> Date: 03/02/2021
+> Date: 07/02/2021
 
 ![aci](https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png)
 
@@ -45,69 +45,58 @@ In addition, you have also been requested to build a multiple linear regression 
 ---
 
 ## Project Deliverable
-Deliverable is a Python notebook with the Ensembel Learning Techniques (Bagging and Boosting).
+Deliverable is a Python notebook with the Regression Analysis.
 
 * Notebook name: Cancer Prediction-Regression Analysis.ipynb
 
-**Dataset 1 name:** kopokopo_dataset - datasets_602860_1082167_SBAcase.11.13.17 
+**Dataset 1 name:** cancer_reg.csv
 </br>
-**Dataset 2 name:** kopokopo_clean.csv
+**Dataset 2 name:** cancer_clean.csv
 
 </br>
 
-**Dataset URL:** https://bit.ly/KoppoKoppoDS
+**Dataset URL:** https://bit.ly/3gJ5Jad
 
-**Dataset Glossary Name:** Koppokoppo - Glossary - t0001-10.1080_10691898.2018.1434342 (1).csv
+**Dataset Glossary Name:** regression_project_glossary.csv
 </br>
-**Dataset Glossary Download Link:** https://bit.ly/KoppokoppoGlossary
+**Dataset Glossary Download Link:** https://bit.ly/3gYSst9
 
 
-NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+**NB:** These dataset provided was aggregated from a number of sources including the American Community Survey (census.gov), clinicaltrials.gov, and cancer.gov.
 
 [Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Recording the Experimental Design
-1. Define the Research Question.
-2. Data Importation.
-3. Data Exploration.
-4. Data Cleaning.
-5. Data Analysis (Univariate & Bivariate analysis using Pandas Profling as we had a numerous number of features) </br>
-**Pandas Profiling Report**: output.html
-6. Data Preparation
-7. Data modelling.
-8. Model Evaluation.
-9. Summary of Findings
-10. Recommendations / Conclusions
-11. Challenge solution.
+1. Load dataset and libraries.
+2. Clean dataset.
+3. Carry out data analysis.
+4. Carry out data modeling.
+5. Summarize findings.
+6. Provide recommendations.
+7. Challenge the solution.
 
 [Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Summary Of Findings
-* The ensemble learning classifiers and the decision tree classifier returned 100% accuracy scores with no false positives or false negatives.
+* From our analysis and modeling, it is clear that the modeling algorithm is not a good fit for our data.
 
 [Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Recommendations / Conclusions
-While these are great scores, I would recommend that the decision makers at Koppokoppo exercise caution while using these methods due to overfitting. Just because the models were perfectly accurate with this data does not mean the same will happen with different data.
+I would recommend the company come up with either a different research question or get a different dataset.
 
 [Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
 ---
 
 ## Challenging your Solution
-* Meeting the assumptions of the algorithms (e.g., no multicollinearity, normality, etc. for logistic regression)
-
-* Performing hyperparameter tuning.
-
-* Feature selection - discarding the features considered unnecessary or unimportant.
-
-* Cross Validation
+* While the data was correct and valid, the research question was not appropriate for it, considering it had many outliers and was hence not suitable for linear regression.
 
 [Back To The Top](#Cancer-Prevention-Regression-Analysis-The-African-Cancer-Institute)
 
