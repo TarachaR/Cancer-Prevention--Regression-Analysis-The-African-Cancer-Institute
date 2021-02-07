@@ -77,7 +77,7 @@ Deliverable is a Python notebook with the Regression Analysis.
 6. Provide recommendations.
 7. Challenge the solution.
 
-While performing model selection/diagnosis, you will be required to perform the following steps in an effort to check for the following assumptions:
+While performing model selection/diagnosis, I performed the following steps in an effort to check for the following assumptions:
 
 * Assess the linearity of the model (parameters)
 * Assess heteroskedasticity
