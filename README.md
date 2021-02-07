@@ -6,7 +6,7 @@
 
 > Date: 29/11/2020
 
-![cutomer churn header](https://user-images.githubusercontent.com/67068918/100549903-0de4bc00-3287-11eb-855c-d88a391b50f0.png)
+![aci](https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png)
 
 ---
 
