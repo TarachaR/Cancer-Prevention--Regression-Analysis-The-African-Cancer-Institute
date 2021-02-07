@@ -1,11 +1,11 @@
-# Ensemble-Learning--Kopo-Kopo-Loan-Repayment-Prediction
+# Cancer Prevention Regression Analysis-The African Cancer Institute
 ---
 
 > Author: Richard Taracha
 
 > Date: 03/02/2021
 
-![kopo2](https://user-images.githubusercontent.com/67068918/106792887-c6ecbb80-6667-11eb-8195-04b4a0e3eaf6.png)
+![aci](https://user-images.githubusercontent.com/67068918/107158150-3977d700-6999-11eb-9603-63f72f2741a9.png)
 
 ---
 
